@@ -1,0 +1,4 @@
+azure-functions
+azure-storage
+azure-storage-blob
+azure-core

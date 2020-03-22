@@ -1,0 +1,20 @@
+{
+  "id": "6adb0d2b-b01e-0016-3265-fd220106993b",
+  "data": {
+    "api": "PutBlockList",
+    "clientRequestId": "581eb079-10c3-42d1-6051-79fe073e3b39",
+    "requestId": "6adb0d2b-b01e-0016-3265-fd2201000000",
+    "eTag": "0x8D7CB7CA873BCA0",
+    "contentType": "application/pdf",
+    "contentLength": 10416178,
+    "blobType": "BlockBlob",
+    "url": "https://myorigin.blob.core.windows.net/processed/GitHub & Microsoft - Madrid 14th of Feb.pdf",
+    "sequencer": "00000000000000000000000000000DD6000000000138290d",
+    "storageDiagnostics": {
+      "batchId": "bd2ec945-d006-0000-0065-fdd4d6000000"
+    }
+  },
+  "topic": "/subscriptions/ca0cd4ab-5601-489a-9e4b-53db45be5503/resourceGroups/Azure-Storage-Demos/providers/Microsoft.Storage/storageAccounts/myorigin",
+  "subject": "/blobServices/default/containers/processed/blobs/GitHub & Microsoft - Madrid 14th of Feb.pdf",
+  "event_type": "Microsoft.Storage.BlobCreated"
+}
